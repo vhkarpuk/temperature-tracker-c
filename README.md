@@ -1,5 +1,12 @@
 # 🌡️ Temperature Tracker (C Project)
 
+![C](https://img.shields.io/badge/language-C-blue)
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
+![Last Commit](https://img.shields.io/github/last-commit/vhkarpuk/temperature-tracker-c)
+
+A simple **command-line tool in C** to record and analyze daily temperatures...
+
+
 A simple **command-line tool in C** to record and analyze daily temperatures.  
 Built as part of a programming foundations portfolio to practice **arrays, pointers, loops, and menu-driven logic**.
 
